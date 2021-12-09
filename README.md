@@ -14,7 +14,7 @@ Recommender Systems \[[paper](https://arxiv.org/pdf/1806.01973.pdf)\]\[code\] <b
 \[SIGIR2022 under reivew\] Contrastive Cross-domain Recommendation in Matching \[[paper](https://arxiv.org/pdf/2112.00999.pdf)\]\[code\] <br>
 
 ## Survey
-[ijcai2021-tutorial](https://advanced-recommender-systems.github.io/ijcai2021-tutorial/)
-## Other materials
 
+## Other materials
+[ijcai2021-tutorial](https://advanced-recommender-systems.github.io/ijcai2021-tutorial/)
 \[[To be updated]()\]

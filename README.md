@@ -12,6 +12,7 @@ Recommender Systems \[[paper](https://arxiv.org/pdf/1806.01973.pdf)\]\[code\] <b
 10. \[SIGIR2021\] Enhanced Graph Learning for Collaborative Filtering via Mutual Information Maximization \[[paper](http://le-wu.com/files/Publications/CONFERENCES/SIGIR2021-yang.pdf)\]\[[code](https://github.com/yimutianyang/SIGIR2021-EGLN)\]<br>
 11. \[ACM MM 2021\] Contrastive Learning for Cold-Start Recommendation \[[paper](https://arxiv.org/abs/2107.05315)\]\[[code](https://github.com/weiyinwei/CLCRec)\] <br>
 12. \[SIGIR2022 under reivew\] Contrastive Cross-domain Recommendation in Matching \[[paper](https://arxiv.org/pdf/2112.00999.pdf)\]\[code\] <br>
+13. \[Arxiv2111\] Latent Structures Mining with Contrastive Modality Fusion for Multimedia Recommendation \[[paper](https://arxiv.org/abs/2111.00678)\]\[[code](https://github.com/cripac-dig/micro)\]
 
 ## Survey
 

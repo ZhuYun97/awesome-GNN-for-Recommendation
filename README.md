@@ -13,6 +13,7 @@ Recommender Systems \[[paper](https://arxiv.org/pdf/1806.01973.pdf)\]\[code\] <b
 11. \[ACM MM 2021\] Contrastive Learning for Cold-Start Recommendation \[[paper](https://arxiv.org/abs/2107.05315)\]\[[code](https://github.com/weiyinwei/CLCRec)\] <br>
 12. \[SIGIR2022 under reivew\] Contrastive Cross-domain Recommendation in Matching \[[paper](https://arxiv.org/pdf/2112.00999.pdf)\]\[code\] <br>
 13. \[Arxiv2111\] Latent Structures Mining with Contrastive Modality Fusion for Multimedia Recommendation \[[paper](https://arxiv.org/abs/2111.00678)\]\[[code](https://github.com/cripac-dig/micro)\]
+14. \[Arxiv2112\] Graph4Rec: A Universal Toolkit with Graph Neural Networks for Recommender Systems \[[paper](https://arxiv.org/abs/2112.01035)\]\[[code](https://github.com/PaddlePaddle/PGL?utm_source=catalyzex.com)\]
 
 ## Survey
 
